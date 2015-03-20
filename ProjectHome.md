@@ -1,0 +1,1 @@
+Simple electronic notebook featuring encryption and a mixture of organizational techniques including tabs and outlines. Special emphasis is given to data portability.
